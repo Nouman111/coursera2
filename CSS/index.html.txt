@@ -33,8 +33,3 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, repellendus asperiores suscipit enim sint voluptas cumque culpa quos. Magnam quos, id doloribus vero quam et quae recusandae quia est asperiores?
             </p>
-        </div>
-    </div>
-</body>
-
-</html>
